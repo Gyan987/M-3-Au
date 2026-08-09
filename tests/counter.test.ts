@@ -1,6 +1,6 @@
 /**
  * Counter Contract Test Suite — Midnight ZK Simulation Layer
- *
+ * 
  * Test matrix (3 required):
  *   1. Circuit logic — increment and decrement state transitions
  *   2. Underflow protection — asserts counter never drops below zero
