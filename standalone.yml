@@ -1,4 +1,4 @@
-# FreightVeil — Midnight Local Dev Stack (Docker)
+# FreightVeil — Midnight Local Dev Stack (Docker) 
 #
 # Runs three services for the 'undeployed' local network:
 #   • midnight-node   → ws://localhost:9944   (Substrate / Midnight blockchain)
