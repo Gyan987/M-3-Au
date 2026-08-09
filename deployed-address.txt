@@ -1,4 +1,4 @@
-FreightVeil — Deployed Smart Contract
+FreightVeil — Deployed Smart Contract 
 
 Contract Address : 0x62a27ceda5eb600263e208768d5d285c659d47f2cd6b14a20c62b160f4da46f3
 Deployment Tx    : 0x770d96f3e35173fa3c2dcfb7bdaa16887f755f245ec8d21af0083416301ca17f
