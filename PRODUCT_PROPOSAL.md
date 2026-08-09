@@ -1,5 +1,5 @@
 # FreightVeil — Product Proposal
-
+ 
 ## What is it?
 
 FreightVeil is a confidential multi-carrier shipment settlement platform built on the Midnight blockchain. In traditional freight logistics, shippers coordinate multi-leg routes involving several independent transport carriers, requiring escrowed funds to be disbursed upon completed delivery. FreightVeil allows shippers to lock escrowed funds for a shipment batch while carriers claim their contracted payouts for completed legs. Financial terms — including per-kilometer freight rates, individual leg distances, and the shipper's total budget — are verified mathematically correct using zero-knowledge circuits and never appear on the public ledger or in any off-chain database.
