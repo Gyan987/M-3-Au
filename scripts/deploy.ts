@@ -1,5 +1,5 @@
 /**
- * FreightVeil — Midnight Deployment Script
+ * FreightVeil — Midnight Deployment Script 
  *
  * Usage:
  *   node --import tsx scripts/deploy.ts
