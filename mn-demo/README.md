@@ -1,4 +1,4 @@
-# mn-demo
+# mn-demo 
 
 A Midnight Network smart contract scaffolded with create-mn-app.
 
